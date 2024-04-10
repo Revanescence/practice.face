@@ -1,8 +1,8 @@
 console.log("this is me")
 
-let name = ("tony stark")
+let name = ("tony stark") //block scoped
 const age = 24
-const price = 150.5
+const price = 150.5 // block scoped
 var x = null
 var y = undefined
 let isFollow = false;
