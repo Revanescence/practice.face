@@ -1,5 +1,9 @@
 h1 {
-    color:  "blue";
-    text-decoration: like-through;
-    
+    color:  blue;
+    text-decoration: like-through; 
 }
+
+body{
+    background-color: pink;
+}
+
